@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectInfo>
+    <Name>DMS Bus 2</Name>
+    <LastWriteTime>2025-05-16T08:58:18.950958Z</LastWriteTime>
+    <LastKnownProtectionLevel>EncryptSensitiveWithPassword</LastKnownProtectionLevel>
+    <Salt>kXxcPhxk</Salt>
+    <LastKnownProtectedHashedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZynZ449I90Cr6BjLAMxGxgAAAAACAAAAAAAQZgAAAAEAACAAAAATzy088nrBkjkeF271iKNDZcviDL6KR8ZsD1dNC+cILgAAAAAOgAAAAAIAACAAAAA1JhOhAgcAKTs8Bosjy7AitaLSb9NMHWgwRNNe3znLeTAAAACuFlWCcvPu6HjIWelR9rZrP81I0EvcTwuSrX8zTJq80QMwVdy/+/BhGsNxlXVwdblAAAAAyo/KBSiPQU6AC/j1/3fL3mQDexxDoA9vSf+xt7CQykCVRzYdUS0pSiidMmfTXxs/Ly6Z1OE79NOWRbMA9kInUQ==</LastKnownProtectedHashedPassword>
+  </ProjectInfo>
+  <LastBuildInfos>
+    <ProjectBuildItemInfo>
+      <Name>DMS_BUS2 - Update Master Table.dtsx</Name>
+      <LastWriteTime>2025-06-02T04:07:35.0224658Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithPassword</LastKnownProtectionLevel>
+      <Salt>cwkubIlM</Salt>
+      <LastKnownProtectedHashedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZynZ449I90Cr6BjLAMxGxgAAAAACAAAAAAAQZgAAAAEAACAAAACa/Cxl1Pva7CaI2KC21LCyGo/vmvhszwv4SZALMKqIfwAAAAAOgAAAAAIAACAAAAAKLghuVT3wZ7s25K6srdiLlR/9FdJb2vrpffm6QXJoZTAAAABTMul9ivbjgP+jjMqTgrkKDwCEcTva55WuoQdT3imfmOSpQ4nrEXpyS2QAqhoQ39tAAAAAelQ3wEmMXO2Xx7k45MOmbdzRg25bpr4SmylCq6haK9qK7GXO+phiJZuLUXLekN91tNCJtb6koci154IMwWKbSw==</LastKnownProtectedHashedPassword>
+    </ProjectBuildItemInfo>
+  </LastBuildInfos>
+</BuildLog>
